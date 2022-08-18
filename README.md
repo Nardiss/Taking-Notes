@@ -1,5 +1,5 @@
 # Taking-Notes
-# Express.js: Note Taker - UW Coding Bootcamp
+# Express.js:
 
 
 # Description

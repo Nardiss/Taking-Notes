@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "express": "^4.18.1",
+    "heroku": "^7.62.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "taking-notes",
+  "description": "",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nardiss/Taking-Notes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nardiss/Taking-Notes/issues"
+  },
+  "homepage": "https://github.com/Nardiss/Taking-Notes#readme"
+}

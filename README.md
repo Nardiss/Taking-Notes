@@ -32,14 +32,6 @@ Deployed via Heroku (see link above)
 # Tests
 Not applicable.
 
-# Snippet
-This a code snippet from the server.js file..
-
-// DEPENDENCIES - npm packages that will give our server useful functionality
-const express = require('express');
-
-
-
 
 # Authors
 
